@@ -72,7 +72,7 @@ The dashboard enables decision-makers to monitor customer performance, identify 
 customer-intelligence-platform
 │
 ├── sql
-├── dataset
+├── data
 ├── dashboard
 ├── images
 └── README.md
