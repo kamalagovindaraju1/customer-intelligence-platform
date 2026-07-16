@@ -76,3 +76,12 @@ customer-intelligence-platform
 ├── dashboard
 ├── images
 └── README.md
+
+---
+
+## Author
+
+**Kamala Govindaraju**
+
+Growth Analytics | SQL | Google BigQuery | Tableau Public | Marketing Analytics
+
